@@ -1,0 +1,11 @@
+
+-------------------
+
+email: shan@gmail.com 
+subject:games
+message:
+I like Skyrim.
+
+Fallout is also good.
+
+I also play kingdom come: deliverance, its my favorite. 
